@@ -8,20 +8,8 @@ This folder contains the finished project. You can use it as a reference guide i
 
 This folder contains all of the necessary materials of the project. 
 
-3. STUDENTS FOLDER:
+3. App FOLDER:
 
 This folder is the destination of your own Xcode project.
 
-4. WORKBOOK:
 
-The PDF file is the workbook for this project.
-
-
-Happy Coding,
-Robert Petras
-
-
-CREDO ACADEMY
-
-Website: https://credo.academy
-Twitter: https://twitter.com/robertpetras
